@@ -1,0 +1,1 @@
+import{b1 as e}from"./bootstrap-Cw_Nwv5q.js";import{ae as o,af as r}from"../jse/index-index-qFeY1OAM.js";const c={};function t(a,n){return o(),r("div")}const _=e(c,[["render",t]]);export{_ as default};
